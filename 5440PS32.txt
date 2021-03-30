@@ -1,0 +1,2 @@
+2. The flux and mass balances add up for all the species except for the consumption of an H20 molecule and the creation of a orthophosphate or pi. This can be accounted for when considering broader metabolic accounting or for influx through b1-b4. 
+
